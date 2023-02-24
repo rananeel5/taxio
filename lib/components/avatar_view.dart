@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:foap/util/extension.dart';
+import 'package:Taxio/util/extension.dart';
 import '../model/user_model.dart';
 
 class AvatarView extends StatelessWidget {

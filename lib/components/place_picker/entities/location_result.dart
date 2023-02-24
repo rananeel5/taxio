@@ -1,5 +1,5 @@
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:foap/components/place_picker/entities/address_component.dart';
+import 'package:Taxio/components/place_picker/entities/address_component.dart';
 
 /// The result returned after completing location selection.
 class LocationResult {

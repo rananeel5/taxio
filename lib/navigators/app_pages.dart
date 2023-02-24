@@ -1,9 +1,9 @@
-import 'package:foap/screens/createNewPin/createNewPin_screen.dart';
-import 'package:foap/screens/loading/loading.dart';
-import 'package:foap/screens/login/login_binding.dart';
-import 'package:foap/screens/login/login_screen.dart';
-import 'package:foap/screens/signup/signup_screen.dart';
-import 'package:foap/screens/tutorial/tutorial_screen.dart';
+import 'package:Taxio/screens/createNewPin/createNewPin_screen.dart';
+import 'package:Taxio/screens/loading/loading.dart';
+import 'package:Taxio/screens/login/login_binding.dart';
+import 'package:Taxio/screens/login/login_screen.dart';
+import 'package:Taxio/screens/signup/signup_screen.dart';
+import 'package:Taxio/screens/tutorial/tutorial_screen.dart';
 import 'package:get/get.dart';
 import '../screens/SetProfile/setProfile_binding.dart';
 import '../screens/SetProfile/setProfile_screen.dart';

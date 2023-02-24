@@ -1,4 +1,4 @@
-import 'package:foap/manager/user_profile_manager.dart';
+import 'package:Taxio/manager/user_profile_manager.dart';
 import 'package:get_it/get_it.dart';
 
 import 'location_manager.dart';

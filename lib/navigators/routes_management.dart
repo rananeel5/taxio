@@ -1,4 +1,4 @@
-import 'package:foap/screens/signup/signup_screen.dart';
+import 'package:Taxio/screens/signup/signup_screen.dart';
 import 'package:get/get.dart';
 
 import 'app_pages.dart';

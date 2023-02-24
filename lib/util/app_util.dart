@@ -1,6 +1,6 @@
 import 'package:connectivity/connectivity.dart';
 import 'package:flutter/material.dart';
-import 'package:foap/util/extension.dart';
+import 'package:Taxio/util/extension.dart';
 import 'package:get/get.dart';
 import '../components/app_buttons.dart';
 import 'localization_strings.dart';

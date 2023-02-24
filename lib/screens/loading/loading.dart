@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
 import 'package:flutter/material.dart';
-import 'package:foap/theme/common_colors.dart';
+import 'package:Taxio/theme/common_colors.dart';
 
 import 'loading_controller.dart';
 

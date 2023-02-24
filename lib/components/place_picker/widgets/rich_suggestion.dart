@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foap/components/place_picker/entities/entities.dart';
+import 'package:Taxio/components/place_picker/entities/entities.dart';
 
 class RichSuggestion extends StatelessWidget {
   final VoidCallback onTap;

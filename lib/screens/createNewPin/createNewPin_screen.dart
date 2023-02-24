@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foap/components/custom_texts.dart';
-import 'package:foap/util/extension.dart';
+import 'package:Taxio/components/custom_texts.dart';
+import 'package:Taxio/util/extension.dart';
 import 'package:get/get.dart';
 import 'package:pin_code_text_field/pin_code_text_field.dart';
 

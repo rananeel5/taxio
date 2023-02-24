@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foap/util/extension.dart';
+import 'package:Taxio/util/extension.dart';
 import '../model/notification_modal.dart';
 
 class NotificationTileType4 extends StatelessWidget {

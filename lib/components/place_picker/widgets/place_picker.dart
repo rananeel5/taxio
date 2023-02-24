@@ -4,9 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:location/location.dart';
 import 'package:http/http.dart' as http;
-import 'package:foap/components/place_picker/entities/entities.dart';
-import 'package:foap/components/place_picker/entities/localization_item.dart';
-import 'package:foap/components/place_picker/widgets/widgets.dart';
+import 'package:Taxio/components/place_picker/entities/entities.dart';
+import 'package:Taxio/components/place_picker/entities/localization_item.dart';
+import 'package:Taxio/components/place_picker/widgets/widgets.dart';
 
 import '../uuid.dart';
 

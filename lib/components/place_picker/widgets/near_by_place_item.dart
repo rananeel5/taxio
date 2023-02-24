@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:foap/components/place_picker/entities/entities.dart';
+import 'package:Taxio/components/place_picker/entities/entities.dart';
 
 class NearbyPlaceItem extends StatelessWidget {
   final NearbyPlace nearbyPlace;

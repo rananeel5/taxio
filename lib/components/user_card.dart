@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foap/components/avatar_view.dart';
-import 'package:foap/util/extension.dart';
+import 'package:Taxio/components/avatar_view.dart';
+import 'package:Taxio/util/extension.dart';
 import '../model/user_model.dart';
 import '../theme/icon_enum.dart';
 import '../theme/theme_icon.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foap/util/extension.dart';
+import 'package:Taxio/util/extension.dart';
 import 'package:google_static_maps_controller/google_static_maps_controller.dart'
     as static_map;
 

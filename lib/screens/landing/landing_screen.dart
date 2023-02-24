@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foap/screens/landing/landing_controller.dart';
-import 'package:foap/util/extension.dart';
-import 'package:foap/util/localization_strings.dart';
+import 'package:Taxio/screens/landing/landing_controller.dart';
+import 'package:Taxio/util/extension.dart';
+import 'package:Taxio/util/localization_strings.dart';
 import 'package:get/get.dart';
 import '../../components/app_buttons.dart';
 import '../../components/custom_texts.dart';

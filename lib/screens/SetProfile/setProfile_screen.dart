@@ -2,10 +2,10 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:foap/components/rounded_input_field.dart';
-import 'package:foap/screens/SetProfile/setProfile_controller.dart';
-import 'package:foap/util/extension.dart';
-import 'package:foap/util/localization_strings.dart';
+import 'package:Taxio/components/rounded_input_field.dart';
+import 'package:Taxio/screens/SetProfile/setProfile_controller.dart';
+import 'package:Taxio/util/extension.dart';
+import 'package:Taxio/util/localization_strings.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
 import '../../components/app_buttons.dart';
